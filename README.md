@@ -1,4 +1,4 @@
-# cs360 — queue allocation simulation (ECON 284 paper)
+# CS360 — queue allocation simulation (ECON 284 paper)
 
 This repo contains a small, reproducible discrete-event simulation of a single-server “video embedding” pipeline with stochastic arrivals, heavy-tailed service times, heterogeneous users, and optional abandonment.
 
